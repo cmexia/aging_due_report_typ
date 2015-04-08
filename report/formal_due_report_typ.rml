@@ -201,6 +201,7 @@
     <spacer length="5mm"/>
     <para style="CUSTOMERCENTER">[[ user.signature ]]</para>
     <spacer length="5mm"/>
+    <para style="CUSTOMERCENTER">esta es una prueba para push desde gitbash</para>
      <blockTable colWidths="38mm,38mm,38mm,38mm" style="ACCOUNTSTABLE"><!--+-->
         <tr>
             <td><para style="TABLEACCOUNTS">BBVA BANCOMER, S.A. (PESOS) CUENTA: 0450750085 CLABE:012760004507500858</para></td>
