@@ -154,9 +154,9 @@
                 <td><para style="ITEMSRIGHTABLE">[[ formatLang(p['total']) or '0.00']]</para></td>
             </tr>
         </blockTable>
-        <blockTable colWidths="38mm,38mm,38mm,38mm" style="ACCOUNTSTABLE"><!--+-->
+        <blockTable colWidths="38mm,38mm,38mm" style="ACCOUNTSTABLE"><!--+--><!--"38mm,38mm,38mm,38mm"-->
         <tr>
-            <td><para style="TABLEACCOUNTS">BBVA BANCOMER, S.A. (PESOS) CUENTA: 0450750085 CLABE:012760004507500858</para></td>
+            <!--<td><para style="TABLEACCOUNTS">BBVA BANCOMER, S.A. (PESOS) CUENTA: 0450750085 CLABE:012760004507500858</para></td>-->
             <td><para style="TABLEACCOUNTS">BBVA BANCOMER, S.A. (DOLARES) CUENTA:0155213479 CLABE:012760001552134793</para></td>
             <td><para style="TABLEACCOUNTS">BANORTE (PESOS) CUENTA: 0532645269 CLABE:072760005326452692</para></td>
             <td><para style="TABLEACCOUNTS">BANORTE (DOLARES) CUENTA: 0179699201 CLABE:072760001796992016</para></td>
